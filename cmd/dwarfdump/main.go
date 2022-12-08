@@ -1,3 +1,6 @@
+// dwarfdump print all dwarf entry.
+//
+// usage: dwarfdump filepath
 package main
 
 import (
